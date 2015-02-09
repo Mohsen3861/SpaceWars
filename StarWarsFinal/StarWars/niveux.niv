@@ -1,0 +1,31 @@
+niveux :0
+texture: data/space2.bmp
+time: 1
+enemie: 6
+niveux :1
+texture: data/space1.bmp
+time: 1
+enemie: 9
+niveux :2
+texture: data/space.bmp
+time: 1
+enemie: 13
+niveux :3
+texture: data/space5.bmp
+time: 1
+enemie: 16
+niveux :4
+texture: data/space7.bmp
+time: 1
+enemie: 18
+niveux :5
+texture: data/space9.bmp
+time: 1
+enemie: 20
+niveux :6
+texture: data/space14.bmp
+time: 1
+enemie: 25
+
+
+

@@ -1,0 +1,6 @@
+vaiseau:data/SpaceShip.obj
+vitesse max:500
+asteroides taille min:20
+asteroides taille max:400
+asteroides texture:data/asteroide.bmp
+niveau initail:0
